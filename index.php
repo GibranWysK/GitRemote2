@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>   Belajar Remote Kasus 2 </h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, corrupti!</p>
 </body>
 </html>
