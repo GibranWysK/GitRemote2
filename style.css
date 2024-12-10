@@ -1,4 +1,14 @@
+body {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
 
-body{
-    font-family: arial;
+p {
+  display: flex;
+  min-height: 100vh;
+  overflow: hidden;
+  align-items: center;
+  text-transform: uppercase;
+  justify-content: center;
+  text-shadow: 1px 1px 5px red;
+  font-size: 2rem;
 }
